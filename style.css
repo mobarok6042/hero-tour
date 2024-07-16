@@ -1,6 +1,10 @@
 * {
     color:rgb(35,22, 24);
 }
-.tra{
+#tra{
     color: rgb(255, 84, 0);
+}
+ul{
+    list-type:none;
+    list-style:none;
 }
