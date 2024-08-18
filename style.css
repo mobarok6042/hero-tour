@@ -30,6 +30,7 @@ nav{
     height:500px;
     width:1170px;
     border-radius: 12px;
+    margin-bottom: 50px;
 }
 .explore{
     font-family: mulish;
@@ -72,4 +73,36 @@ nav{
 #ico{
     height: 1rem;
     width: 1rem;
+}
+.form{
+    text-align: center;
+    padding-top: 25px;
+}
+
+/*middle*/
+.OPT{
+width: 590px;
+margin-left: 100px;
+font-family:mulish;
+}
+.opthead{
+    font-size:45px;
+}
+#opttext{
+    font-size:16px;
+}
+.optlist{
+    list-style: disc;
+    font-size:16px;
+}
+.middle{
+    display:flex;
+    flex-direction: row;
+}
+.rm{
+    width: 174px;
+    height: 52px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(255,84,0);
 }
