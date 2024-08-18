@@ -16,4 +16,10 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width:1200px;
+    padding-left: 90px;
+    font-family: mulish;
+}
+#menu>li{
+    margin-right: 44px;
 }
