@@ -132,13 +132,86 @@ letter-spacing: 0%;
 text-align: center;
 width: 643px;
 margin-left: 320px;
+padding-bottom: 2rem;
 }
 .imgs{
-    display: grid;
 }
 /*here is a problem*/
 .whead{
     font-family: mulish;
     font-size: 35px;
-    
+    text-align: center;
+    padding-top: 25px;
+}
+.wtext{
+    font-family: mulish;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 25px;
+} 
+.ser{
+   
+}
+.hh{
+    color: rgb(19, 19, 24);
+font-family: Mulish;
+font-size: 24px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.scw{
+    color: rgb(19, 19, 24);
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.bpg{
+    color: rgb(19, 19, 24);
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.sert1{
+    background: rgba(251, 181, 99, 0.05);
+    box-sizing: border-box;
+    border: 1px solid rgba(251, 181, 99, 0.2);
+    border-radius: 16px;
+    position: absolute;
+    width: 573px;
+    height: 284px;
+    left: 135px;
+    top: 2778px;
+    padding: 0,25px,0,25px;
+}
+.sert2{
+    position: absolute;
+width: 573px;
+height: 284px;
+left: 732px;
+top: 2778px;
+box-sizing: border-box;
+border: 1px solid rgba(41, 206, 246, 0.2);
+border-radius: 16px;
+
+background: rgba(41, 206, 246, 0.05);
+}
+.sert3{
+    position: absolute;
+width: 573px;
+height: 284px;
+left: 433px;
+top: 3086px;
+box-sizing: border-box;
+border: 1px solid rgba(233, 68, 68, 0.2);
+border-radius: 16px;
+
+background: rgba(233, 68, 68, 0.05);
 }
