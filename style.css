@@ -1,7 +1,7 @@
 * {
     color:rgb(35,22, 24);
 }
-#tra{
+#tra>button{
     color: rgb(255, 84, 0);
 }
 ul{
@@ -11,6 +11,7 @@ ul{
     align-items: center;
     justify-content: space-between;
     padding: 15px;
+    style:none;
 }
 nav{
     display: flex;
@@ -132,9 +133,39 @@ letter-spacing: 0%;
 text-align: center;
 width: 643px;
 margin-left: 320px;
-padding-bottom: 2rem;
+margin-bottom: 2rem;
 }
-.imgs{
+.container{
+    max-width: 1240px;
+    width: 90%;
+    margin: auto;
+    padding: 40px;
+}
+.photo-gallery{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.photo-row1{
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.photo-row2{
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.photo-row3{
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.images>img{
+width: 100%;
+height: 100%;
+border-radius: 5px;
+object-fit: cover;
 }
 /*here is a problem*/
 .whead{
@@ -200,7 +231,6 @@ top: 2778px;
 box-sizing: border-box;
 border: 1px solid rgba(41, 206, 246, 0.2);
 border-radius: 16px;
-
 background: rgba(41, 206, 246, 0.05);
 }
 .sert3{
@@ -212,6 +242,5 @@ top: 3086px;
 box-sizing: border-box;
 border: 1px solid rgba(233, 68, 68, 0.2);
 border-radius: 16px;
-
 background: rgba(233, 68, 68, 0.05);
 }
