@@ -80,6 +80,10 @@ nav{
 .form{
     text-align: center;
     padding-top: 25px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.3);
+    align-items:center;
+    justify-items: center;
 }
 
 /*middle*/
@@ -195,8 +199,9 @@ object-fit: cover;
     overflow-x: hidden;
     overflow-y: hidden;
     font-family: mulish;
-    padding: 12px;
+    padding: 40px;
     margin: 12px;
+    object-fit: cover;
 }
 #th{
     font-family: mulish;
@@ -223,4 +228,16 @@ background: rgba(251, 181, 99, 0.05);
     border-radius: 16px;
     
     background: rgba(233, 68, 68, 0.05);
+}
+.ht{
+   height: 30px;
+   width: 30px;
+}
+.mp{
+    height: 30px;
+    width: 30px;
+}
+.pt{
+    height: 30px;
+    width: 30px;
 }
