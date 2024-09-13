@@ -196,12 +196,10 @@ object-fit: cover;
 #text-box{
     width: 573px;
     height: 284px;
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-y: scroll;
     font-family: mulish;
     padding: 40px;
     margin: 12px;
-    object-fit: cover;
 }
 #th{
     font-family: mulish;
@@ -230,14 +228,75 @@ background: rgba(251, 181, 99, 0.05);
     background: rgba(233, 68, 68, 0.05);
 }
 .ht{
-   height: 30px;
-   width: 30px;
+   height: 45px;
+   width: 45px;
 }
 .mp{
-    height: 30px;
-    width: 30px;
+    height: 45px;
+    width: 45px;
 }
 .pt{
-    height: 30px;
-    width: 30px;
+    height: 45px;
+    width: 45px;
 }
+/*deals and discounts starts*/
+.ddconteiner{
+    justify-content: center;
+}
+.ddtitle{
+    
+    color: rgb(19, 19, 24);
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: 0%;
+     text-align: center;
+}
+.ddtext{
+width: 643px;
+height: 52px;
+margin: 35px 333px 150px 333px;
+color: rgba(19, 19, 24, 0.7);
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.ddcards{
+    
+}
+.ddboxe1{
+    background-image: url(Images/39.png);
+width: 1170px;
+height: 500px;
+margin: 15px 70px 50px 70px;
+}
+.ddboxe2{
+    background-image: url(Images/40.png);
+    width: 1170px;
+    height: 500px;
+    margin: 15px 70px 50px 70px;
+}
+.ddboxe3{
+    background-image: url(Images/39.png);
+    width: 1170px;
+    height: 500px;
+    margin: 15px 70px 50px 70px;
+}
+.boxe1p{
+    
+    
+}
+.boxe2p{
+  
+
+}   
+.boxe3p{
+    
+
+}
+/*deals and discounts ends*/
