@@ -316,4 +316,78 @@ margin: 15px 70px 50px 70px;
     left: 650px;
     top: 75px;
 }
+.smtxt{
+    color: rgb(90, 90, 93);
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+.des{
+    color: rgb(19, 19, 24);
+font-family: Mulish;
+font-size: 24px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0%;
+}
+.deis{
+    color: rgb(90, 90, 93);
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+}
+.booknow{
+    width: 150px;
+height: 52px;
+border-radius: 8px;
+background: rgb(255, 84, 0);
+border: none;color: rgb(255, 255, 255);
+font-family: Mulish;
+font-size: 20px;
+font-weight: 800;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.boxe1pd{
+    position: relative;
+    left: 35px;
+    top: 15px;
+    width: 400px;
+}
+.boxe2pd{
+    position:relative;
+    left: 35px;
+    top: 15px;
+    width: 400px;
+}
+.boxe3pd{
+    position:relative;
+    left: 35px;
+    top: 15px;
+    width: 400px;
+}
+.sap{
+width: 210px;
+height: 52px;
+color: rgb(255, 255, 255);
+font-family: Mulish;
+font-size: 20px;
+font-weight: 800;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: center;
+border-radius: 8px;
+background: rgb(255, 84, 0);
+border: none;
+position: relative;
+left: 620px;
+top: 50px;
+}
 /*deals and discounts ends*/
