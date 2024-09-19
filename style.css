@@ -288,15 +288,32 @@ margin: 15px 70px 50px 70px;
     margin: 15px 70px 50px 70px;
 }
 .boxe1p{
-    
-    
+    width: 450px;
+    height: 280px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    position: relative;
+    left: 650px;
+    top: 75px;
+
 }
 .boxe2p{
-  
+    width: 450px;
+    height: 280px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    position: relative;
+    left: 70px;
+    top: 75px;
 
-}   
+}
 .boxe3p{
-    
-
+    width: 450px;
+    height: 280px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    position: relative;
+    left: 650px;
+    top: 75px;
 }
 /*deals and discounts ends*/
