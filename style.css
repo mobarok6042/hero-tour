@@ -13,6 +13,9 @@ ul{
     padding: 15px;
     style:none;
 }
+a{
+    style:none;
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -20,6 +23,8 @@ nav{
     width:1200px;
     padding-left: 90px;
     font-family: mulish;
+    position: sticky;
+    top: 70px;
 }
 #menu>li{
     margin-right: 44px;
@@ -52,12 +57,18 @@ nav{
     height:52px;
     border:none;
     border-radius:5px;
+    text-align: center;
+    font-size: medium;
+    font-weight: 400;
 }
 #when{
     width: 174px;
     height:52px;
     border:none;
     border-radius:5px;   
+    text-align: center;
+    font-size: medium;
+    font-weight: 400;
 }
 #type{
     width: 174px;
@@ -495,6 +506,8 @@ width: 393px;
 height: 52px;
 font-size: medium;
 font-weight: 400;
+border: none;
+text-align: center;
 }
 .subscribe{
     border-radius: 8px;
