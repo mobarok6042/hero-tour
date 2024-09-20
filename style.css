@@ -456,3 +456,88 @@ border: none;
     top: 50px; */
 }
 /*simple perfect place ends here*/
+.newsletter{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+
+}
+.nstb{
+    width: 474px;
+    height: 422px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.nst{
+    color: rgb(19, 19, 24);
+font-family: Mulish;
+font-size: 24px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+.ddsd{
+    color: rgb(90, 90, 93);
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;}
+.formt{
+    border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+width: 393px;
+height: 52px;
+font-size: medium;
+font-weight: 400;
+}
+.subscribe{
+    border-radius: 8px;
+background: rgb(255, 84, 0);
+width: 393px;
+height: 52px;
+color: rgb(255, 255, 255);
+font-family: Mulish;
+font-size: 20px;
+font-weight: 800;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+}
+.svu{
+    border-radius: 16px;
+background: rgb(255, 84, 0);
+width: 324px;
+height: 120px;
+transform: rotate(-35deg);
+position: relative;
+display: flex;
+flex-direction: column;
+margin: 15px;
+left: 325px;
+bottom:225px;
+}
+.tcm{
+    color: rgb(255, 255, 255);
+font-family: Mulish;
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.svu7{
+    color: rgb(255, 255, 255);
+font-family: Mulish;
+font-size: 32px;
+font-weight: 800;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: center;
+}
